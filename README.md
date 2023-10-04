@@ -1,6 +1,6 @@
 # Ejercicios de Estructuras de Control en Python
 
-Este repositorio está dedicado a una colección de ejercicios que te ayudarán a comprender y practicar el uso de estructuras de control en Python. Cada ejercicio aborda un aspecto específico de las estructuras de control y proporciona oportunidades para mejorar tus habilidades de programación.
+Este repositorio está dedicado a una colección de ejercicios que te ayudarán a comprender y practicar el uso de estructuras de control en Python. Cada ejercicio aborda un aspecto específico de las estructuras de control.
 
 ## Ejercicios Disponibles
 
